@@ -19,7 +19,7 @@ I am **iu_yang1**, a ShortWave Listener (SWL) based in Jiangxi, China. I enjoy e
 
 <p align="left">
   <a href="https://github.com/Iu-yang1">
-    <img src="https://github-readme-stats.vercel.app/api?username=Iu-yang1&show_icons=true&count_private=true&theme=default" alt="iu_yang1's GitHub Stats" width="470"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Iu-yang1&show_icons=true&count_private=true&theme=transparent" alt="iu_yang1's GitHub Stats" width="470"/>
   </a>
 </p>
 
