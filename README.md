@@ -26,14 +26,13 @@ I am **iu_yang1**, a ShortWave Listener (SWL) based in Jiangxi, China. I enjoy e
 
 ---
 
-## 📫 Contact
+## 📫 Contact 
 
-| Platform   | Link                                          |
-| ---------- | --------------------------------------------- |
-| ✉️ Email     | [iu_yang1@foxmail.com](mailto:iu_yang1@foxmail.com) |              
-| 💬 QQ        | [QQ](https://qm.qq.com/q/U9yD3H9QWu)         |    
-| 📱 Telegram | [@iu_yang1](https://t.me/iu_yang1)              |
-| 💻 GitHub    | [Iu-yang1](https://github.com/Iu-yang1)         |
+| 平台        | 链接                                                                 | [NeoNetwork](https://github.com/NeoCloud/NeoNetwork)网络信息                            |
+| ----------- | -------------------------------------------------------------------- | --------------------------------------------- |
+| ✉️ Email     | [iu_yang1@foxmail.com](mailto:iu_yang1@foxmail.com)                | **ASN**: `AS4201273722`                        |
+| 💬 QQ        | [QQ](https://qm.qq.com/q/U9yD3H9QWu)                                | **IPv4**: `10.127.204.48/28`               |
+| 📱 Telegram | [@iu_yang1](https://t.me/iu_yang1)                                   | **IPv6**: `fd10:127:face::/48`           |
+| 💻 GitHub    | [Iu-yang1](https://github.com/Iu-yang1)                             | **Name**: `Iu-yang1-NeoNetwork`                  |
 
 ---
-
