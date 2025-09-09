@@ -15,7 +15,7 @@
 
 I am **iu_yang1**, a ShortWave Listener (SWL) based in Jiangxi, China. I enjoy exploring the world of radio communications and capturing radio signals from around the globe.
 
-- **SWL Callsign:** BG5JSU | BY5019SWL
+- **My Callsign:** BG5JSU | BY5019SWL
 - **Date of Birth:** 03-13 (Lunar Calendar)
 
 <p align="left">
