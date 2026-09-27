@@ -15,7 +15,7 @@
 <div style="display: flex !important; flex-direction: column !important; gap: 4px !important; margin: 4px !important; padding: 0 !important; box-sizing: border-box !important;">
   <div style="display: flex !important; flex-wrap: wrap !important; gap: 4px !important; align-items: center !important; min-height: 32px !important; justify-content: flex-start !important;">
     <img src="https://img.shields.io/badge/DXCC-101-4620e1?style=flat&labelColor=8d86ff" alt="DXCC: 101" style="display: inline-block !important; max-width: none !important; height: auto !important; border: none !important; margin: 0 !important; padding: 0 !important;" />
-    <img src="https://img.shields.io/badge/VUCC%20SAT-50-233182?style=flat&labelColor=47bab2" alt="VUCC SAT: 50" style="display: inline-block !important; max-width: none !important; height: auto !important; border: none !important; margin: 0 !important; padding: 0 !important;" />
+    <img src="https://img.shields.io/badge/VUCC%20SAT-50-233182?style=flat&labelColor=47bab2" alt="VUCC SAT: 64" style="display: inline-block !important; max-width: none !important; height: auto !important; border: none !important; margin: 0 !important; padding: 0 !important;" />
     <img src="https://img.shields.io/badge/VUCC%2050-148-3a8da7?style=flat&labelColor=47bab2" alt="VUCC 50: 148" style="display: inline-block !important; max-width: none !important; height: auto !important; border: none !important; margin: 0 !important; padding: 0 !important;" />
     <img src="https://img.shields.io/badge/VUCC%20432-3-233182?style=flat&labelColor=2d5d95" alt="VUCC 432: 3" style="display: inline-block !important; max-width: none !important; height: auto !important; border: none !important; margin: 0 !important; padding: 0 !important;" />
   </div>
